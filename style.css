@@ -11,8 +11,8 @@ body {
 }
 article {
   text-align: center;
-  width: 720px;
-  margin-top: 150px;
+  width: 900px;
+  margin-top: 115px;
 }
 .imageContainer {
   width: 16.6666%;
@@ -20,4 +20,5 @@ article {
 }
 img {
   border-radius: 10%;
+  width: 131px !important;
 }
