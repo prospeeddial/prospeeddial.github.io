@@ -1,0 +1,23 @@
+html {
+  height: 400px;
+}
+body {
+  background-color: #2f2f2f;
+  backgound-image: url(img/wallpaper2.png);
+  background-position: center center;
+  background-size: 1300px 1200px;
+  height: 400px;
+  margin-bottom: -200px;
+}
+article {
+  text-align: center;
+  width: 720px;
+  margin-top: 150px;
+}
+.imageContainer {
+  width: 16.6666%;
+  padding: 3px 0 3px 0;
+}
+img {
+  border-radius: 10%;
+}
